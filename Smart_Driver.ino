@@ -1,5 +1,5 @@
-               //MOUSER IOT DESIGN CONTEST
-        //SMART DRIVER e-MONITORING AND ALERT SYSTEM
+           //MOUSER IOT DESIGN CONTEST
+  //SMART DRIVER e-MONITORING AND ALERT SYSTEM
      
 #include <twApi.h>
 #include <twLogger.h>
